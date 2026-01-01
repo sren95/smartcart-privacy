@@ -100,9 +100,15 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ---
 
+## Related Documents
+
+- [Terms of Service](./terms)
+
+---
+
 ## Contact Us
 
-For questions about this privacy policy, you can reach us through the App Store or by leaving feedback in TestFlight.
+For questions about this privacy policy, please reach us through the App Store or TestFlight feedback.
 
 ---
 
