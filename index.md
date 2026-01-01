@@ -96,7 +96,7 @@ Location data is used only for on-device display and distance calculations, and 
 
 ## Related Documents
 
-- [Terms of Service](./terms)
+- [Terms of Service](terms.md)
 
 ---
 
