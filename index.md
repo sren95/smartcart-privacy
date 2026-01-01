@@ -46,17 +46,17 @@ If you choose to upload a course to share with other users, the following data i
 
 ---
 
-## Uploaded Course Data: License Grant
+## Uploaded Course Data: Ownership
 
-**By uploading a course, you grant SmartCart a perpetual, worldwide, royalty-free, transferable license to use, modify, distribute, and display that course data for any purpose, including but not limited to:**
+**By uploading a course, you transfer all rights, title, and ownership of that course data to SmartCart.** Uploaded course data becomes the sole property of SmartCart.
+
+SmartCart may use uploaded data for any purpose, including but not limited to:
 - Sharing with other users of the App
-- Improving the App and its features
+- Modifying, correcting, or improving the data
 - Creating derivative works
-- Commercial purposes, including licensing to third parties
+- Commercial purposes, including licensing or selling to third parties
 
-Uploaded course data becomes part of the SmartCart course database. You should not upload courses if you do not agree to these terms.
-
-**You retain any copyright you hold in original content you create**, but the license you grant is irrevocable and does not require attribution.
+**Do not upload courses if you do not agree to transfer ownership.**
 
 ---
 
@@ -94,15 +94,15 @@ Location data is used only for on-device display and distance calculations, and 
 
 ---
 
-## Changes to This Policy
-
-We may update this policy from time to time. Changes will be posted on this page with an updated revision date.
-
----
-
 ## Related Documents
 
 - [Terms of Service](./terms)
+
+---
+
+## Changes to This Policy
+
+We may update this policy from time to time. Changes will be posted on this page with an updated revision date.
 
 ---
 
@@ -112,4 +112,4 @@ For questions about this privacy policy, please reach us through the App Store o
 
 ---
 
-© 2025 SmartCart
+© 2026 SmartCart
