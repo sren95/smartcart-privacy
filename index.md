@@ -113,3 +113,4 @@ For questions about this privacy policy, please reach us through the App Store o
 ---
 
 © 2026 SmartCart
+
