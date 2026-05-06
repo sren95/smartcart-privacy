@@ -1,6 +1,6 @@
 # SmartCart Terms of Service
 
-**Last Updated:** January 2026
+**Last Updated:** May 2026
 
 By using SmartCart ("the App"), you agree to these Terms of Service. If you do not agree, do not use the App.
 
@@ -23,7 +23,7 @@ You may not:
 
 ## 2. Course Data and User Content
 
-You may create golf course data in the App, including course names, hole layouts, mapped zones, paths, distances, par values, handicap values, and related map coordinates ("User Content").
+You may create golf course data in the App, including course names, club names, hole layouts, mapped zones, paths, distances, par values, handicap values, descriptions, and related map coordinates ("User Content").
 
 ### Local Course Data
 
@@ -31,14 +31,18 @@ Course data that remains on your device is controlled by you. You may delete loc
 
 ### Uploaded Course Data
 
-If you choose to upload course data, you allow SmartCart to store, use, modify, correct, improve, display, distribute, and share that uploaded course data as part of the App and related SmartCart services.
+If you choose to upload course data, you grant SmartCart a worldwide, non-exclusive, royalty-free, transferable, and sublicensable license to host, store, use, copy, modify, correct, improve, display, distribute, publish, and share that uploaded course data as part of the App and related SmartCart services.
 
-This permission allows SmartCart to:
+This license allows SmartCart to:
 
 - Make uploaded courses available to other SmartCart users
+- Display uploaded course data in the App
+- Allow other users to download and use uploaded courses
 - Improve, correct, or moderate uploaded course data
 - Combine uploaded data with other course data
 - Use uploaded course data to improve SmartCart's course database and App functionality
+
+This license continues even if you stop using the App or delete the App from your device, unless SmartCart removes the uploaded course data from its services.
 
 Do not upload course data if you do not want it to be shared with other users or used by SmartCart for these purposes.
 
@@ -48,12 +52,15 @@ Do not upload course data if you do not want it to be shared with other users or
 
 You are responsible for the course data you create and upload.
 
+You confirm that you have all necessary rights, permissions, and authority to upload and share your User Content through the App.
+
 You agree not to upload content that:
 
 - You do not have the right to share
-- Infringes another person's rights
-- Is intentionally false, misleading, harmful, or unlawful
+- Infringes another person's rights, including copyright, trademark, privacy, publicity, or other legal rights
+- Is intentionally false, misleading, harmful, abusive, or unlawful
 - Contains personal information that should not be shared publicly
+- Contains offensive, unsafe, or inappropriate material
 
 You are responsible for any claims or issues arising from content you upload.
 
@@ -61,17 +68,23 @@ You are responsible for any claims or issues arising from content you upload.
 
 ## 4. Community Course Data
 
-Community course data may be created by other users and may be incomplete, inaccurate, outdated, or unsuitable for a specific golf course or playing condition.
+Community course data may be created by other users and may be incomplete, inaccurate, outdated, or unsuitable for a specific golf course, playing condition, tournament, or safety situation.
 
 You should verify course details independently before relying on them.
 
-SmartCart may remove, modify, correct, or restrict access to uploaded course data at any time.
+SmartCart may remove, modify, correct, moderate, reject, or restrict access to uploaded course data at any time, including if we believe it violates these Terms, infringes rights, creates risk, or is inaccurate or inappropriate.
+
+If you believe uploaded course data violates your rights or these Terms, contact us at:
+
+**smartcart.dev@proton.me**
 
 ---
 
 ## 5. Location and Distance Measurements
 
-SmartCart may use your device location to show your position on the course and calculate distances to greens, hazards, and other points.
+SmartCart may use your device location to show your position on the course and calculate distances to greens, hazards, paths, zones, and other points.
+
+If you create or upload course data, related course coordinates and mapped course features may be stored and shared as part of the uploaded course data.
 
 Distance measurements are estimates and may be affected by GPS accuracy, device conditions, course data accuracy, and environmental factors.
 
@@ -96,7 +109,17 @@ SmartCart does not guarantee uninterrupted Bluetooth connectivity or hardware co
 
 ---
 
-## 7. No Warranty
+## 7. Third-Party Services and Content
+
+The App may display or access third-party services, maps, platform features, or content made available by other users or service providers.
+
+You agree to use third-party services and content only as permitted by applicable laws and any relevant third-party terms.
+
+SmartCart is not responsible for third-party services, third-party content, or user-uploaded content that we did not create, but we may remove or restrict access to content where appropriate.
+
+---
+
+## 8. No Warranty
 
 The App is provided "as is" and "as available" without warranties of any kind.
 
@@ -106,13 +129,14 @@ We do not guarantee that:
 - Course data will be complete or correct
 - Distance measurements will be exact
 - Bluetooth control will be available or uninterrupted
+- Uploaded or community course data will remain available
 - The App will meet your specific requirements
 
 Use of the App is at your own risk.
 
 ---
 
-## 8. Limitation of Liability
+## 9. Limitation of Liability
 
 To the maximum extent permitted by law, SmartCart and its developers are not liable for indirect, incidental, special, consequential, or punitive damages, including but not limited to:
 
@@ -122,14 +146,15 @@ To the maximum extent permitted by law, SmartCart and its developers are not lia
 - Inaccurate distance measurements
 - Bluetooth connection issues
 - Personal injury or property damage arising from use of the App or connected hardware
+- Claims or disputes related to user-uploaded course data
 
-Nothing in these terms limits liability where it cannot be limited under applicable law.
+Nothing in these Terms limits liability where it cannot be limited under applicable law.
 
 ---
 
-## 9. Termination
+## 10. Termination
 
-We may suspend or terminate access to the App or related services if you violate these terms or misuse the App.
+We may suspend or terminate access to the App or related services if you violate these Terms or misuse the App.
 
 You may stop using the App at any time.
 
@@ -137,7 +162,7 @@ Uploaded course data may remain available after you stop using the App if it has
 
 ---
 
-## 10. Privacy
+## 11. Privacy
 
 Your use of the App is also governed by our Privacy Policy:
 
@@ -145,23 +170,23 @@ Your use of the App is also governed by our Privacy Policy:
 
 ---
 
-## 11. Changes to These Terms
+## 12. Changes to These Terms
 
-We may update these terms from time to time. Changes will be posted on this page with an updated revision date.
+We may update these Terms from time to time. Changes will be posted on this page with an updated revision date.
 
-Continued use of the App after changes are posted means you accept the updated terms.
+Continued use of the App after changes are posted means you accept the updated Terms.
 
 ---
 
-## 12. Governing Law
+## 13. Governing Law
 
-These terms are governed by the laws of Denmark, unless mandatory consumer protection laws in your country require otherwise.
+These Terms are governed by the laws of Denmark, unless mandatory consumer protection laws in your country require otherwise.
 
 ---
 
 ## Contact
 
-For questions about these terms, contact us at:
+For questions about these Terms, contact us at:
 
 **smartcart.dev@proton.me**
 
